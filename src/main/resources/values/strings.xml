@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC example</string>
+    <string name="explanation">NFC reader</string>
+    <string name="nfcDisabled">NFC is disabled.</string>
+    <string name="nfcNotSupported">This device does not support NFC.</string>
+</resources>
